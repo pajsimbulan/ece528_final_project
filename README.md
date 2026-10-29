@@ -24,7 +24,7 @@ The expected outcome is smoother tracking with fewer line losses. Testing will f
 
 ## Block Diagram
 
-![Functional block diagram](screenshots_videos\architecture_block_diagram.drawio.svg)
+![Functional block diagram](screenshots_videos/architecture_block_diagram.drawio.svg)
 
 ## Pinout Plan
 
